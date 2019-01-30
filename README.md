@@ -53,7 +53,20 @@ Type of data in [big data](https://en.wikipedia.org/wiki/Big_data) analytics:
   + Customer profile data
   + Inventory control data
   + HR data
-+ External data
++ External data:
+
+  External data is infinite chain of information and data that is stored outside the current database of the business. The external data can be public data or private data. 
+  
+  The public data available to everyone to use and republish as they wish by the way like free, payment for third party or hire the third party to collect data.
+  
+  The private data is that are not made available to the general public, such as passwords and financial account details. The private data sometime requires you have to find data resource and payment for some the company or third party specialize in providing data
+  
+  The example for external data:
+  + Weather data
+  + Government data like the survey for population
+  + Twitter data
+  + Social network profiles data
+  + Google Trend or Google Map
 ### _Keyword:_
 ### Methodology research 
 ### Analytics and Tools
