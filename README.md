@@ -5,7 +5,7 @@ The original resource of everythings on the Internet: Internet-related news and 
 
   ![](https://lh3.googleusercontent.com/_npnlUmL0UpHZoUllVy8u5KR5nXXFvmCdHBGLi23-ctrCrm6QB0qrqFDKV-u2Pu1iwxlbo_np0sf3Rv4TymTPxwlz56otJN0GTW7MywVT7KbOy-JhAZ6eaTkHE-ZpNHgPoi9tY7MoR7r7jOJRyPEsA5jv0t4HlN6PAbMdDJZkjGgLk4F9dr8uSOjf6XCMwl-mavmYpP4qVMBTd7bOOqFVHVSoziOCZ2Vzv5YUZBfaeO8sV-tL3dF6iQljn-H8QLhVLNP5M9mupyCIslXqPE4W7UMiR6ihhb7uk3W3qAjB5Yi3JD44daAaHawhRh_myqLfCiybboXP9D5nX0Ck818W7JNR_AuHbdxPKD4zfAAJ_RBU5Mw4xFQrmzcwUTPaar7xsgIQPDpnLEX66i-qdXElYMWbwzKHPNS7qIdjghCf5d2xXc49VE0sabts3KEG0_K39E3T4Q7zyQAaO9LsniplCJnC0ojTgBpqDu-8pbt7oRb-GBrOJbYoJZPSgs6ETjMAVEeDTA9BRjIoP58n7UoQ3yKeCDe8JOh1j-hKdPoRxBZbcEkPEQ6uCg8Qxq05y4nqxjXs3Dcm3FvQv9A4GgjJuu7zNm7k6TLc3JtaYUmZmGa9dSiIpOHNTHaYZyZ_czg3BGybdfHF1h-vfw4LhAqc0VUtuDh3VHTIb5Oxie1fkCeFQlKAu1Xa0vEVAtWn1U2hvreVhfiKUXf9EfFTA=w700-h450-no)
 
-Type of data:
+Type of data in [big data](https://en.wikipedia.org/wiki/Big_data) analytics:
 + Structured data
   
   Structured data is data that has been organized into a formatted repository, typically a database, so that its elements can be made addressable for more effective processing and analysis. 
@@ -41,6 +41,18 @@ Type of data:
   **Unstructured data is intersection point of structured data and semi-structured data.** This data type can include some the structured in applying analysis, but haven't absolute data model yet. For the semi-structured data, we used to tag or the other bookmark form to determine certain elements in the data, but the data don't have a certain structure. For example, posts in the Facebook can be classified to author, data, length of data, sentimental level, but in the general the content of them still semi-unstructured.
     
 + Internal data
+
+  Internal data is data retrieved from inside the company to make decisions for successful operations. This information is important to determine whether the strategies the company is currently using are successful or if shifts should be made. There are four different areas a company can gather internal data from: **[Sales](https://en.wikipedia.org/wiki/Sales), [finance](https://en.wikipedia.org/wiki/Finance), [marketing](https://en.wikipedia.org/wiki/Marketing), and [human resources](https://en.wikipedia.org/wiki/Human_resources)**.
+  
+  Example:
+  + Customers response data 
+  + Sales data
+  + Employee and customer survey data
+  + Video of the security camera data
+  + Transaction data
+  + Customer profile data
+  + Inventory control data
+  + HR data
 + External data
 ### _Keyword:_
 ### Methodology research 
