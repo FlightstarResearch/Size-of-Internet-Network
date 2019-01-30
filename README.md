@@ -37,9 +37,9 @@ Type of data:
   + Data warehouses, data lake
   + NoSQL database
   + NLP processing
-  
+  + [The growth of data](http://tseedu.com/the-growing-importance-and-why-it-matters/)
   **Unstructured data is intersection point of structured data and semi-structured data.** This data type can include some the structured in applying analysis, but haven't absolute data model yet. For the semi-structured data, we used to tag or the other bookmark form to determine certain elements in the data, but the data don't have a certain structure. For example, posts in the Facebook can be classified to author, data, length of data, sentimental level, but in the general the content of them still semi-unstructured.
-
+    
 + Internal data
 + External data
 ### _Keyword:_
