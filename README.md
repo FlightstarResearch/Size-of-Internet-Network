@@ -21,12 +21,16 @@ Type of data:
   
   Semi-structured data is a form of structured data that does not conform with the formal structure of data models associated with relational databases or other forms of data tables, but nonetheless contains tags or other markers to separate semantic elements and enforce hierarchies of records and fields within the data. Therefore, it is also known as [self-describing](https://en.wikipedia.org/wiki/Self-documenting_code) structure.
   
-  According to estimates, 80% of business-relevant information that original from unstructured data and semi-structured data. Example about them consist of:
+  According to estimates, 80% of business-relevant information that original from unstructured data and semi-structured data. 
+  
+  ![](https://lh3.googleusercontent.com/PTtRxmFKJdKl5n-a6mh64w2drUcT9z-9KZMlJECCEW3noYSURRV7MEchG-LCPJJqwBNVpqAb5B5R7oMWrBzOomtLeUHiurfxyR03aOty8G8BPKlMLEOJc81a9z64Kg2hkaA1cm5DHXac5yF7f6YJUT8KmtLrw0C-w8PnIAlXDjGu2mdNYi2F7ixb6OTN_GChGK_AZqrN8N_ocewacTUUuXAtBEg3LJlCBCDDqITForlmSRwu3qSPbVbx0MVelV0Xzmh0sOiC5O8QStwhaxR7kDtn7_gMx_sVZNmFFGiWqibKGL_KhpFcfL8RDN_1y0-Dt6g9BMoCE0PVUdM-c8gtrP8mvB8HWfgKjNaL_r6THGc45vNNoDhSIGACxZyyURYTzymxNaNRRd4M0u6WzKvd9o8I2lpWxKY4rcm80GM811ZjEj8Lgq_EIuqEN3hz5hltwLCLcnOU9xmhWq8SB4VtEwI5hGXOK9YrJXQ0hse4noJCXt_9CWgc6_gQWyi1ru9LBCsQsX6Goob7fkDO1Baf_xjfugY1tFvW-9fcJprvCVBByR4CUYjgg-TeHyHFRxfJ7enrF7nVjqUhDC6XsRIQ6BMF3BwGNeOy_k_5XmDRuSsAkIvwotu01v0dLy9BP_XNTWIJrekkGempXA2WYHcNNk3YnlVuhoSnf-sN6tchGDbAyEbog0_9CSknhBbRm2EJ8o-1D28y79O_8ZDRhw=w582-h112-no)
+  
+  Example about them consist of:
   + Image
   + Audio
   + Video
   + [Graphics model](https://www.journals.elsevier.com/graphical-models) 
-  + Webite
+  + Website
   + Text and documentation file like email, posts on social networks, text file extensions, Blog,... 
   + Presentation software
   + Application
