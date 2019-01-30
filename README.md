@@ -34,7 +34,7 @@ Type of data:
   + NoSQL database
   + NLP processing
   
-  **Unstructured data is intersection point of structured data and semi-structured data. **
+  **Unstructured data is intersection point of structured data and semi-structured data.**
 
 + Internal data
 + External data
