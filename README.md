@@ -59,6 +59,8 @@ Type of data in [big data](https://en.wikipedia.org/wiki/Big_data) analytics:
   
   The public data available to everyone to use and republish as they wish by the way like free, payment for third party or hire the third party to collect data.
   
+  ![](https://lh3.googleusercontent.com/PKBjYq2FxsD5CSyJ1w52a6CidqIExSCRRniq8yDL5qmzguI2V9KpoGLuHWe1zHdMqO6nLHRZxa0tM1w-LxV7fahlsV-x0xyYPLlsTa1jXIntu4xkkmNv980VdVIdiWmdlQrwwSNtL5KOzTJ7llrAItLT7d_orBL8IPYRJE417iqIcgVWUfkSNscce5hOgHBY_qUGspDwjIQuaE45R6LJ1VtWN34oyCrK31tWJ9_XAba3lOhaZCS-aQsK-NHtmAaPsm_HQDNTxaIeKpemFagYXKQ2o2h7deWM17ZbrQpokeTbS91YlahXKPYHEpXFjKhKJ8kfhmNYLvUmM6NzUl8irvQ1T3ZiEjiu2J8-DJj_W9Y00LHSy4-tYeluw8I5UIKx6MmUzVN78y2cIZd-9pOITnTRn0CV5o2rOxjAF47W_2EU9E2rbtEi-Q3acKjhsetAMjpNwsVVH10ffPzK99rlxC6gTd08arBkUUPQUKUHIyvGM4ZYgFEC2K6PiDGzyJYdasxtENHzMqdx1N1E-NcFGmqaHRm2PMVZYUoDzXlFyoYWBOmzbXec5KsJ4MdskHWea7_qAi_OA7UdA-xEgYCn2aQzWhNoEGuY7hlFF0LJqBI8t09bd84HukmQWO3Bg5MGC1mys4xfH0O6SJ0S8LqO7Nl-liCGibIAhgv76VT3YJCvISOG7c9a66VAko1Hof0YdnJk0NouBJyWFv6O=w500-h323-no)
+  
   The private data is that are not made available to the general public, such as passwords and financial account details. The private data sometime requires you have to find data resource and payment for some the company or third party specialize in providing data
   
   The example for external data:
