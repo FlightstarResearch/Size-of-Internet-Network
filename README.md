@@ -14,7 +14,7 @@ Type of data:
   
   In a database, for example, each field is discrete and its information can be retrieved either separately or along with data from other fields, in a variety of combinations. The power of the database is its ability to make data comprehensive, so that it yields useful information. A database query language, such as [SQL (standard query language)](https://en.wikipedia.org/wiki/SQL), allows a database administrator to interact with the database. 
 
-  Example: Financial data, point of sale data, customer data (name, address, phone number, e-mail, occupation,...), [CRM system](https://en.wikipedia.org/wiki/Customer-relationship_management), [ERP system](https://en.wikipedia.org/wiki/Enterprise_resource_planning), relational database
+  Example: Financial data, point of sale data, customer data (name, address, phone number, e-mail, occupation,...), [CRM system](https://en.wikipedia.org/wiki/Customer-relationship_management), [ERP system](https://en.wikipedia.org/wiki/Enterprise_resource_planning), relational database,...
 + Unstructure data and Semi-structured Data
 
   Unstructure data is information that either does not have a pre-defined data model or is not organized in a pre-defined manner. Unstructured information is typically text-heavy, but may contain data such as dates, numbers, and facts as well. This results in irregularities and ambiguities that make it difficult to understand using traditional programs as compared to data stored in fielded form in databases or annotated (semantically tagged) in documents.
@@ -33,6 +33,7 @@ Type of data:
   + Data warehouses, data lake
   + NoSQL database
   + NLP processing
+  
   **Unstructured data is intersection point of structured data and semi-structured data. **
 
 + Internal data
